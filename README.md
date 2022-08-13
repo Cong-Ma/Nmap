@@ -1,5 +1,7 @@
 # Nmap
-A simple tool that mimics Nmap.    一个自己用来练手的,模仿Nmap功能的简单工具
+A simple tool that mimics Nmap.    
+一个自己用来练手的,模仿Nmap功能的简单工具
+工具基于python3开发.
 功能:
 sA:基于TCP的ACK存活主机探测
 sS:基于TCP的SYN存活主机探测(暂时还没写)
